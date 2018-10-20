@@ -15,5 +15,5 @@ The module was designed for the pycom WiPy 3 module.
 The documentation was done using Sphinx. All documentation source files are located in the docs folder.
 I've hosted the compiled documentation of Read The Docs. 
 
-
+[WS2812B on ReadTheDocs.IO](https://ws2812b.readthedocs.io)
 
